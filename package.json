@@ -1,0 +1,26 @@
+{
+  "name": "node-typescirpt-getstarted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Samurais/node-typescirpt-getstarted.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "hain wang <hailiang.hl.wang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samurais/node-typescirpt-getstarted/issues"
+  },
+  "homepage": "https://github.com/Samurais/node-typescirpt-getstarted#readme",
+  "dependencies": {
+    "hapi": "^13.0.0"
+  }
+}
